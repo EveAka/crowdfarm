@@ -1,0 +1,61 @@
+*{
+
+  padding: 0;
+  margin: 0;
+}
+.container{
+  width: 800px;
+  height: 400px;
+  background-color: rgb(140, 219, 219);
+}
+.headOne{
+  font-style: oblique;
+  margin-left: 250px;
+  
+}
+
+.colorOne{
+width: 400px;
+height: 400px;
+background-color: white;
+float: left;
+
+}
+.colorTwo{
+  width: 400px;
+  height: 400px;
+background-color: rgb(23, 183, 223);
+float: right;
+}
+.paddOne{
+  padding-right: 100px;
+  padding-left: 100px;
+  padding-top: 150px;
+ 
+  color: rgb(42, 126, 194);
+}
+.paddTwo{
+  padding-right: 150px;
+  padding-left: 100px;
+  padding-top: 150px;
+}
+.paddTwo button{
+  width: 200px;
+  height: 25px;
+  border-radius: 15px;
+  background-color: blue ;
+}
+
+#One{
+  padding-bottom: 25px;
+}
+#Two{
+  background-color: white ;
+}
+#twitter_icon{
+  margin-left: 55px;
+  color: blue;
+  
+}
+
+
